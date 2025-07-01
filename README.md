@@ -1,4 +1,4 @@
-# Password_generator_MICRO-IT_project
+# Password_generator
 A simple and secure password generator that creates strong, random passwords to help keep your accounts safe.
 
 
